@@ -3,11 +3,15 @@
 
 Repo to store my literature review on damage functions. It aims at providing an overview of the different damage functions that exist in Integrated Assessment Models. 
 
-It should contain 3 files : 
+It should contain 4 files : 
 
-- a CSV file containing the comparison
+- a CSV file containing the models characteristics
+- a CSV files containing the damage functions
 - a bib file containing all the references
 - a plain text or markdown file containing the bibliography in plain text, and maybe an analysis
+
+Models characteristics are heavily inspired by Mercure, Jean-Francois, Florian Knobloch, Hector Pollitt, Leonidas Paroussos, S. Serban Scrieciu, et Richard Lewney. « Modelling Innovation and the Macroeconomics of Low-Carbon Transitions: Theory, Perspectives and Practical Use ». Climate Policy 19, nᵒ 8 (14 septembre 2019): 1019‑37. https://doi.org/10.1080/14693062.2019.1617665.
+
 
 - ## Models file
 	- ## Informations identifiantes
