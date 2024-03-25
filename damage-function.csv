@@ -100,21 +100,21 @@ PAGE09;PAGE09;;Chris Hope;;@The Social Cost of Co2 from the Page09 Model;simulat
 ;;;;;;;;;;;Economic sector;;;;;;;;;Global mean SLR;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;Discontinuity sector;;;;;;;;;;;;;;;;;;;;;;;;;;;
-REMIND;REgional Model of INvestments and Development;;;;@Global energy security under different climate policies, GDP growth rates and fossil resource availabilities;Optimisation;;;;;;;;Neoclassical school;;;;;Soft-coupled approach;;;;;;;;;;;Endogeneous growth;;;;;;;23/02/2024 11:49;15/03/2024 16:05
-;;;;;, ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+REMIND;REgional Model of INvestments and Development;;;; energy security under different climate policies GDP growth rates and fossil resource availabilities;Optimisation;;;;;;;;Neoclassical school;;;;;Soft-coupled approach;;;;;;;;;;;Endogeneous growth;;;;;;;23/02/2024 11:49;15/03/2024 16:05
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;@REMIND2.1: transformation and innovation dynamics of the energy-economic system within climate and sustainability limits;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 WILLIAM;WILLIAM;;;;;;;;;;;;;;System dynamics;;;;Python;;;;;;;;;;bottom-up;;;;;Demography;MIT open source licence;;21/02/2024 11:14;28/02/2024 16:10
-;;;;;;;;;;;;;;;, ;;;;, ;;;;;;;;;;, ;;;;;, ;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;Input-output analysis;;;;Vensim;;;;;;;;;;top-down;;;;;Society;;;;
-;;;;;;;;;;;;;;;, ;;;;;;;;;;;;;;, ;;;;;, ;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;Energy return on investement;;;;;;;;;;;;;;mixte;;;;;Economy;;;;
-;;;;;;;;;;;;;;;, ;;;;;;;;;;;;;;;;;;;, ;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;Life Cycle Analysis;;;;;;;;;;;;;;;;;;;Finance;;;;
-;;;;;;;;;;;;;;;, ;;;;;;;;;;;;;;;;;;;, ;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;Land and carbon footprinting;;;;;;;;;;;;;;;;;;;Energy;;;;
-;;;;;;;;;;;;;;;, ;;;;;;;;;;;;;;;;;;;, ;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;Microsimulation;;;;;;;;;;;;;;;;;;;Materials;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;, ;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Land and water;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;, ;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Climate;;;;
