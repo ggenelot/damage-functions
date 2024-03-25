@@ -1,110 +1,110 @@
-model_name	model_name_long	model_version	model_team	model_date	reference	IPCC ?	SSP ? 	EU ? 	modelisation	direction	regions-number	regions-comment	sectors-number	modelisation-type	economic-school	economic-theory
-MESSAGE									Optimisation					General equilibrium models		General equilibrium models
-																
-														Partial equilibrium		
-																
-														Cost-optimisation		
-PRIMES														Partial equilibrium		
-														 		
-														Cost-optimisation		
-MIMOSA																
-WITCH																
-MINSKY					@Finance and Economic Breakdown: Modeling Minskyís ìFinancial Instability Hypothesisî				simulation						Post-Keynesian school	
-MATISSE									simulation					Agent-based		
-														 sectoral		
-COACCH																
-EIRIN																
-TIMES									Optimisation					Partial equilibrium		
-														 		
-														Cost-optimisation		
-QUEST														Optimal growth	New Keynesian school	
-GEMMES																
-IMAGE									simulation					System dynamics		Partial equilibrium
-														 		
-														Discrete choice		
-																
-																
-ICES																
-DSK									simulation					Agent-based		
-														 		
-														Stock-flow consistent modelling		
-ESTEEM																
-IMACLIM					@The IMACLIM-P Model Version 3.4				Optimisation					Computable general equilibrium	Neoclassical school	General equilibrium models
-AIM	Asia-Pacific Integrated Modeling				@AIM/CGE [basic] manual				Optimisation						Neoclassical school	General equilibrium models
-FUND v.3.8	Climate Framework for Uncertainty Negotiation and Distribution				@FUND Technical Description						16					
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-FUND	CLIMATE FRAMEWORK FOR UNCERTAINTY NEGOTIATION AND DISTRIBUTION				@FUND Technical Description				Optimisation		16			Optimal growth		
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-																
-DICE 2010	DICE 2010										1					
-																
-																
-DICE-2013R	DICE-2013R		William Nordhaus													
-DEFINE	Dynamic Ecosystem-FINance-Economy		Richard Tol		@A stock-flow-fund ecological macroeconomic model									Macro-econometric	Post-Keynesian school	
-DICE	Dynamic Integrated model of Climate and the Economy		William Nordhaus		@DICE 2013R: Introduction and Userís Manual											
-E3ME-FTT-GENIE	Energy-Economy-Environment Macro-Econometric - Future Technology Transformations - Grid Enabled Integrated Earth								simulation					Macro-econometric	Post-Keynesian school	
-														 		
-														System dynamics		
-														 		
-														Diffusion		
-FTT	Future Technology Transformations								simulation					System dynamics	Post-Keynesian school	
-														 		
-														Diffusion		
-GEM-E3	General Equilibrium Model for Economy-Energy-Environment				@GEM-E3 model documentation.				Optimisation		31 member-state level + rest of the world			Computable general equilibrium	Neoclassical school	General equilibrium models
-																
-																
-																
-																
-																
-																
-Giraud Stock-Flow model	Giraud Stock-Flow model		GaÎl Giraud						simulation					Macro-econometric	Post-Keynesian school	
-																
-																
-GINFORS	Global Interindustry FORecasting System				@GINFORS-E factsheet				simulation					Macro-econometric	Post-Keynesian school	
-GENIE	Grid Enabled Integrated Earth															
-MEDEAS	MEDEAS								simulation	mixte						
-										 						
-										top-down						
-										 						
-										bottom-up						
-MERGE	Merge 2004				@SPOTLIGHTING IMPACTS FUNCTIONS IN INTEGRATED ASSESSMENT											
-																
-																
-PAGE09	PAGE09		Chris Hope		@The Social Cost of Co2 from the Page09 Model				simulation		8					
-																
-																
-																
-																
-REMIND	REgional Model of INvestments and Development				 energy security under different climate policies GDP growth rates and fossil resource availabilities				Optimisation						Neoclassical school	Endogeneous growth
-																
-					@REMIND2.1: transformation and innovation dynamics of the energy-economic system within climate and sustainability limits											
-WILLIAM	WILLIAM									bottom-up						
-																
-										top-down						
-																
-										mixte						
+Ôªømodel_name,model_name_long,model_version,model_team,model_date,reference,IPCC ?,SSP ? ,EU ? ,modelisation,direction,regions-number,regions-comment,sectors-number,modelisation-type,economic-school,economic-theory
+MESSAGE,,,,,,,,,Optimisation,,,,,General equilibrium models,,General equilibrium models
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Partial equilibrium,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Cost-optimisation,,
+PRIMES,hj,,,,,,,,,,,,,Partial equilibrium,,
+,,,,,,,,,,,,,, ,,
+,,,,,,,,,,,,,,Cost-optimisation,,
+MIMOSA,,,,,,,,,,,,,,,,
+WITCH,,,,,,,,,,,,,,,,
+MINSKY,,,,,@Finance and Economic Breakdown: Modeling Minsky‚Äôs ‚ÄúFinancial Instability Hypothesis‚Äù,,,,simulation,,,,,,Post-Keynesian school,
+MATISSE,,,,,,,,,simulation,,,,,Agent-based,,
+,,,,,,,,,,,,,, sectoral,,
+COACCH,,,,,,,,,,,,,,,,
+EIRIN,,,,,,,,,,,,,,,,
+TIMES,,,,,,,,,Optimisation,,,,,Partial equilibrium,,
+,,,,,,,,,,,,,, ,,
+,,,,,,,,,,,,,,Cost-optimisation,,
+QUEST,,,,,,,,,,,,,,Optimal growth,New Keynesian school,
+GEMMES,,,,,,,,,,,,,,,,
+IMAGE,,,,,,,,,simulation,,,,,System dynamics,,Partial equilibrium
+,,,,,,,,,,,,,, ,,
+,,,,,,,,,,,,,,Discrete choice,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+ICES,,,,,,,,,,,,,,,,
+DSK,,,,,,,,,simulation,,,,,Agent-based,,
+,,,,,,,,,,,,,, ,,
+,,,,,,,,,,,,,,Stock-flow consistent modelling,,
+ESTEEM,,,,,,,,,,,,,,,,
+IMACLIM,,,,,@The IMACLIM-P Model Version 3.4,,,,Optimisation,,,,,Computable general equilibrium,Neoclassical school,General equilibrium models
+AIM,Asia-Pacific Integrated Modeling,,,,@AIM/CGE [basic] manual,,,,Optimisation,,,,,,Neoclassical school,General equilibrium models
+FUND v.3.8,Climate Framework for Uncertainty Negotiation and Distribution,,,,@FUND Technical Description,,,,,,16,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+FUND,CLIMATE FRAMEWORK FOR UNCERTAINTY NEGOTIATION AND DISTRIBUTION,,,,@FUND Technical Description,,,,Optimisation,,16,,,Optimal growth,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+DICE 2010,DICE 2010,,,,,,,,,,1,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+DICE-2013R,DICE-2013R,,William Nordhaus,,,,,,,,,,,,,
+DEFINE,Dynamic Ecosystem-FINance-Economy,,Richard Tol,,@A stock-flow-fund ecological macroeconomic model,,,,,,,,,Macro-econometric,Post-Keynesian school,
+DICE,Dynamic Integrated model of Climate and the Economy,,William Nordhaus,,@DICE 2013R: Introduction and User‚Äôs Manual,,,,,,,,,,,
+E3ME-FTT-GENIE,Energy-Economy-Environment Macro-Econometric - Future Technology Transformations - Grid Enabled Integrated Earth,,,,,,,,simulation,,,,,Macro-econometric,Post-Keynesian school,
+,,,,,,,,,,,,,, ,,
+,,,,,,,,,,,,,,System dynamics,,
+,,,,,,,,,,,,,, ,,
+,,,,,,,,,,,,,,Diffusion,,
+FTT,Future Technology Transformations,,,,,,,,simulation,,,,,System dynamics,Post-Keynesian school,
+,,,,,,,,,,,,,, ,,
+,,,,,,,,,,,,,,Diffusion,,
+GEM-E3,General Equilibrium Model for Economy-Energy-Environment,,,,@GEM-E3 model documentation.,,,,Optimisation,,31 member-state level + rest of the world,,,Computable general equilibrium,Neoclassical school,General equilibrium models
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Giraud Stock-Flow model,Giraud Stock-Flow model,,Ga√´l Giraud,,,,,,simulation,,,,,Macro-econometric,Post-Keynesian school,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+GINFORS,Global Interindustry FORecasting System,,,,@GINFORS-E factsheet,,,,simulation,,,,,Macro-econometric,Post-Keynesian school,
+GENIE,Grid Enabled Integrated Earth,,,,,,,,,,,,,,,
+MEDEAS,MEDEAS,,,,,,,,simulation,mixte,,,,,,
+,,,,,,,,,, ,,,,,,
+,,,,,,,,,,top-down,,,,,,
+,,,,,,,,,, ,,,,,,
+,,,,,,,,,,bottom-up,,,,,,
+MERGE,Merge 2004,,,,@SPOTLIGHTING IMPACTS FUNCTIONS IN INTEGRATED ASSESSMENT,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+PAGE09,PAGE09,,Chris Hope,,@The Social Cost of Co2 from the Page09 Model,,,,simulation,,8,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+REMIND,REgional Model of INvestments and Development,,,, energy security under different climate policies GDP growth rates and fossil resource availabilities,,,,Optimisation,,,,,,Neoclassical school,Endogeneous growth
+,,,,,,,,,,,,,,,,
+,,,,,@REMIND2.1: transformation and innovation dynamics of the energy-economic system within climate and sustainability limits,,,,,,,,,,,
+WILLIAM,WILLIAM,,,,,,,,,bottom-up,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,top-down,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,mixte,,,,,,
