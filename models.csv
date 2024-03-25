@@ -1,0 +1,120 @@
+﻿model_name,model_name_long,model_version,model_team,model_date,reference,modélisation,adaptation,assumption-type,catastrophic-risk,paradigme,secteurs-marchands,dommage-niveau,dommage-forme,economic-school,methodes,regions-nombre,,money-type,technique,variable-climatique,economic-change-type,micro-innovation,,uncertainty,calibration,macro-innovation,remarque,micro-foundations,verticalité,economic-theory,variable-affectée,monnaie,dommage,modules,licence,monney-type,created-at,updated-at
+MESSAGE,,,,,,Optimisation,,General equilibrium models,,,,,,,,,,,,,,,,,,,,,,General equilibrium models,,,,,,,23/02/2024 14:53,15/03/2024 16:07
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Partial equilibrium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Cost-optimisation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PRIMES,,,,,,,,Partial equilibrium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 15:00,23/02/2024 15:00
+,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Cost-optimisation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MIMOSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29/02/2024 15:12,29/02/2024 15:12
+WITCH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 11:51,15/03/2024 16:06
+MINSKY,,,,,@Finance and Economic Breakdown: Modeling Minsky’s “Financial Instability Hypothesis”,simulation,,,,,,,,Post-Keynesian school,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 14:23,23/02/2024 14:25
+MATISSE,,,,,,simulation,,Agent-based,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 15:01,23/02/2024 15:02
+,,,,,,,, sectoral,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COACCH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29/02/2024 15:05,29/02/2024 15:05
+EIRIN,,,,,,,,,Yes explicit,,,,,,Spatial information intersection,,,,,,,,,,,,,,,,,,,,,,28/02/2024 15:57,15/03/2024 15:52
+TIMES,,,,,,Optimisation,,Partial equilibrium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 14:56,29/02/2024 11:04
+,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Cost-optimisation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QUEST,,,,,,,,Optimal growth,,,,,,New Keynesian school,,,,,,,,,,,,,DG ECFIN l'utilise,yes friction imperfect competition heterogeneity,,,,,,,,,23/02/2024 14:52,29/02/2024 11:43
+GEMMES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28/02/2024 15:39,28/02/2024 15:42
+IMAGE,,,,,,simulation,,System dynamics,,,,,linear function of water level,,,,,,cartography,,,,,,,,,,,Partial equilibrium,Consumption,,,,,,23/02/2024 15:00,18/03/2024 15:21
+,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,
+,,,,,,,,Discrete choice,,,,,,,,,,,,,,,,,,,,,,,Residual damage,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GDP,,,,,,,
+ICES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29/02/2024 15:07,29/02/2024 15:07
+DSK,,,,,,simulation,,Agent-based,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28/02/2024 15:47,29/02/2024 16:44
+,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Stock-flow consistent modelling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ESTEEM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28/02/2024 16:30,29/02/2024 11:46
+IMACLIM,,,,,@The IMACLIM-P Model Version 3.4,Optimisation,,Computable general equilibrium,,,,,,Neoclassical school,,,,,,,,,,,,,,,,General equilibrium models,,,,,,,23/02/2024 12:01,23/02/2024 12:06
+AIM,Asia-Pacific Integrated Modeling,,,,@AIM/CGE [basic] manual,Optimisation,,,,,,,,Neoclassical school,,,,,,,,,,,,,,,,General equilibrium models,,,,,,,23/02/2024 13:33,15/03/2024 16:08
+FUND v.3.8,Climate Framework for Uncertainty Negotiation and Distribution,,,,@FUND Technical Description,,« Explicit: agriculture includes lagged rate component that fades with adaptation SLR assumes cost-effective adaptation with sea-walls or retreat Implicit otherwise: calibrated to econometric studies of net response to warming » (Diaz et Moore 2017 p. 776) (pdf),,« Potential for catastrophic outcome through tails of parameter distributions » (Diaz et Moore 2017 p. 776) (pdf),,Sea-level rise (SLR),,,,,16,,,,Global mean temperature change,,,,« Probabilistic design represents parametric uncertainty with thin-tailed (for example normal) distributions » (Diaz et Moore 2017 p. 776) (pdf),« Calibrated to sector-specific impact studies mostly published between 1992 and 1998 (ref. 2) » (Diaz et Moore 2017 p. 776) (pdf),,,,,,,,,,,,22/02/2024 16:44,23/02/2024 17:35
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Agriculture,,,,,,,,,Regional mean temperature change,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Forests,,,,,,,,,Rate of warming,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Heating,,,,,,,,,CO2 concentrations,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Cooling,,,,,,,,,Global mean temperature change,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Water resources,,,,,,,,,Ocean temperature,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Tropical storm damages,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Extratropical storm damages,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FUND,CLIMATE FRAMEWORK FOR UNCERTAINTY NEGOTIATION AND DISTRIBUTION,,,,@FUND Technical Description,Optimisation,« Explicit: agriculture includes lagged rate component that fades with adaptation SLR assumes cost-effective adaptation with sea-walls or retreat Implicit otherwise: calibrated to econometric studies of net response to warming » (Diaz et Moore 2017 p. 776) (pdf),Optimal growth,« Potential for catastrophic outcome through tails of parameter distributions » (Diaz et Moore 2017 p. 776) (pdf),,Sea-level rise (SLR),,,,,16,,,,Global mean temperature change,,,,« Probabilistic design represents parametric uncertainty with thin-tailed (for example normal) distributions » (Diaz et Moore 2017 p. 776) (pdf),« Calibrated to sector-specific impact studies mostly published between 1992 and 1998 (ref. 2) » (Diaz et Moore 2017 p. 776) (pdf),,,,,,,,,,,,22/02/2024 17:20,19/03/2024 11:45
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Agriculture,,,,,,,,,Regional mean temperature change,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Forests,,,,,,,,,Rate of warming,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Heating,,,,,,,,,CO2 concentrations,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Cooling,,,,,,,,,Global mean temperature change,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Water resources,,,,,,,,,Ocean temperature,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Tropical storm damages,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Extratropical storm damages,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DICE 2010,DICE 2010,,,,,,« calibrated to estimates of damages net of adaptation » (Diaz et Moore 2017 p. 776) (pdf),,« Implicit: net damage includes the expected value of catastrophic loss per Nordhaus expert survey » (Diaz et Moore 2017 p. 776) (pdf),,Sea-level rise (SLR),,Quadratic function of temperature,,,1,,,,Global mean temperature change,,,,,« DICE2010 is loosely calibrated to the IPCC (ref. 64) and a metaanalysis of net damages for 1–3 °C (ref. 65) via RICE-2010 (ref. 13) » (Diaz et Moore 2017 p. 776) (pdf),,,,,,,,,,,,22/02/2024 16:28,22/02/2024 16:33
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Aggregate non-SLR,,,,,,,,,Global mean SLR,,,,,,,,,,,,,,,,,,
+DICE-2013R,DICE-2013R,,William Nordhaus,,,,,,,,,3° => -2%,Quadratic function of temperature,,,,,,,,,,,,,,,,,,,,,,,,21/02/2024 14:10,15/03/2024 13:53
+DEFINE,Dynamic Ecosystem-FINance-Economy,,Richard Tol,,@A stock-flow-fund ecological macroeconomic model,,,Macro-econometric,,,,,,Post-Keynesian school,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 14:26,28/02/2024 17:50
+DICE,Dynamic Integrated model of Climate and the Economy,,William Nordhaus,,@DICE 2013R: Introduction and User’s Manual,,,,,Neoclassical school,,,,,,,,,,,,,,,,,,,,,,,,,,,21/02/2024 14:11,14/03/2024 09:56
+E3ME-FTT-GENIE,Energy-Economy-Environment Macro-Econometric - Future Technology Transformations - Grid Enabled Integrated Earth,,,,,simulation,,Macro-econometric,,,,,,Post-Keynesian school,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 13:58,29/02/2024 11:47
+,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,System dynamics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Diffusion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FTT,Future Technology Transformations,,,,,simulation,,System dynamics,,,,,,Post-Keynesian school,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 14:08,23/02/2024 14:11
+,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Diffusion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GEM-E3,General Equilibrium Model for Economy-Energy-Environment,,,,@GEM-E3 model documentation.,Optimisation,,Computable general equilibrium,,,,,,Neoclassical school,Input/Output,31 member-state level + rest of the world,,,,,,,,,,,« dynamic and recursive CGE disaggregated at member state level and representing the rest of the world in its different regions » (Souffron et Jacques 2024 p. 11) (pdf),,,General equilibrium models,,,,Economy,,,23/02/2024 13:42,29/02/2024 14:37
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Energy,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Agriculture,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Air pollution,,,,
+Giraud Stock-Flow model,Giraud Stock-Flow model,,Gaël Giraud,,,simulation,,Macro-econometric,,,,,,Post-Keynesian school,System dynamics,,,,,Global mean temperature change,,,,,,,,,,,,,,,,,23/02/2024 14:20,26/02/2024 17:23
+,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Abatment costs,,,,,,,,,,,,,,,,,,,,,,,
+GINFORS,Global Interindustry FORecasting System,,,,@GINFORS-E factsheet,simulation,,Macro-econometric,,,,,,Post-Keynesian school,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 14:13,23/02/2024 14:18
+GENIE,Grid Enabled Integrated Earth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23/02/2024 14:08,23/02/2024 14:09
+MEDEAS,MEDEAS,,,,,simulation,,,,,,,,,,,,,,,,,,,,,,,mixte,,,,,,,,21/02/2024 11:14,29/02/2024 17:01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,top-down,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bottom-up,,,,,,,,,
+MERGE,Merge 2004,,,,@SPOTLIGHTING IMPACTS FUNCTIONS IN INTEGRATED ASSESSMENT,,,,,,,2.5 C => -0.25%,Quadratic function of temperature,,Willingness to pay,,,,,,,,,,,,deux fonctions de dommage : impact sur le marché impact sur le nom marché,,,,GDP,,,,,,21/02/2024 15:45,18/03/2024 15:51
+,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,Logistic shape,,,,,,,,,,,,,,,,,,,,,,,,,
+PAGE09,PAGE09,,Chris Hope,,@The Social Cost of Co2 from the Page09 Model,simulation,« Explicit: two types of exogenous adaptation modelled as fixed regional policies (constant regardless of climate change and socioeconomics) that reduce impacts for a cost » (Diaz et Moore 2017 p. 776) (pdf),,« ‘Discontinuity’ impact occurs with a positive probability linked to temperatures over 3 °C » (Diaz et Moore 2017 p. 776) (pdf),,Sea-level rise (SLR),3° => -0.5%,Power function of temperature,,,8,,,,Regional mean temperature change,,,,« Probabilistic design represents parametric uncertainty with triangular distributions » (Diaz et Moore 2017 p. 776) (pdf),,,,,,,,,,,,,21/02/2024 15:24,06/03/2024 15:09
+,,,,,,,,,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Economic sector,,,,,,,,,Global mean SLR,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Discontinuity sector,,,,,,,,,,,,,,,,,,,,,,,,,,,
+REMIND,REgional Model of INvestments and Development,,,, energy security under different climate policies GDP growth rates and fossil resource availabilities,Optimisation,,,,,,,,Neoclassical school,,,,,Soft-coupled approach,,,,,,,,,,,Endogeneous growth,,,,,,,23/02/2024 11:49,15/03/2024 16:05
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,@REMIND2.1: transformation and innovation dynamics of the energy-economic system within climate and sustainability limits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WILLIAM,WILLIAM,,,,,,,,,,,,,,System dynamics,,,,Python,,,,,,,,,,bottom-up,,,,,Demography,MIT open source licence,,21/02/2024 11:14,28/02/2024 16:10
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Input-output analysis,,,,Vensim,,,,,,,,,,top-down,,,,,Society,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Energy return on investement,,,,,,,,,,,,,,mixte,,,,,Economy,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Life Cycle Analysis,,,,,,,,,,,,,,,,,,,Finance,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Land and carbon footprinting,,,,,,,,,,,,,,,,,,,Energy,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Microsimulation,,,,,,,,,,,,,,,,,,,Materials,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Land and water,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Climate,,,,
