@@ -56,7 +56,7 @@ for url in liste_url:
 df = pd.DataFrame(extraction)
 
 # Écrire le DataFrame dans un fichier Excel
-df.to_excel('informations_modele.xlsx', index=False)
+df.to_csv('extraction.csv')
 
 print(df)
 
