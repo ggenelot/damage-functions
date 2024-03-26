@@ -1,38 +1,38 @@
-model_name	model_name_long	model_version	model_team	model_date	reference	IPCC ?	SSP ? 	EU ? 	modelisation	solution_algorithm	model_category	direction	regions-number	regions-comment	sectors-number	modelisation-type	economic-school	economic-theory
-MESSAGE	Model for Energy Supply Strategy Alternatives and their General Environmental Impact		IIASA				1		Optimisation	"Intertemporal optimization, linear programming"	Partial equilibrium / General equilibrium			global coverage		"General equilibrium models, Partial equilibrium, Cost-optimisation"		General equilibrium models
-PRIMES	hj						0									"Partial equilibrium, Cost optimisation"		
-MIMOSA							0											
-WITCH	World Induced Technical Change Hybrid						1			Intertemporal optimization	General equilibrium							
-MINSKY					@Finance and Economic Breakdown: Modeling Minsky’s “Financial Instability Hypothesis”		0		simulation								Post-Keynesian school	
-MATISSE							0		simulation							Agent-based		
-COACCH							0											
-EIRIN							0											
-TIMES							0		Optimisation							"Partial equilibrium, Cost-optimisation"		
-QUEST							0									Optimal growth	New Keynesian school	
-GEMMES							0											
-IMAGE	Integrated Model to Assess the Global Environment						1		simulation	Recursive dynamic	Systems dynamic / General equilibrium					"System dynamics, Discrete choice"		Partial equilibrium
-ICES							0											
-DSK							0		simulation							"Agent-based, Stock-flow consistent modelling"		
-ESTEEM							0											
-IMACLIM			CIRED		@The IMACLIM-P Model Version 3.4		0		Optimisation							Computable general equilibrium	Neoclassical school	General equilibrium models
-AIM	Asia-Pacific Integrated Modeling				@AIM/CGE [basic] manual		1		Optimisation	Recursive dynamic	General equilibrium						Neoclassical school	General equilibrium models
-FUND v.3.8	Climate Framework for Uncertainty Negotiation and Distribution				@FUND Technical Description		0						16					
-FUND	CLIMATE FRAMEWORK FOR UNCERTAINTY NEGOTIATION AND DISTRIBUTION				@FUND Technical Description		0		Optimisation				16			Optimal growth		
-DICE 2010	DICE 2010						0						1					
-DICE-2013R	DICE-2013R		William Nordhaus				0											
-DEFINE	Dynamic Ecosystem-FINance-Economy		Richard Tol		@A stock-flow-fund ecological macroeconomic model		0									Macro-econometric	Post-Keynesian school	
-DICE	Dynamic Integrated model of Climate and the Economy		William Nordhaus		@DICE 2013R: Introduction and User’s Manual		0											
-E3ME-FTT-GENIE	Energy-Economy-Environment Macro-Econometric - Future Technology Transformations - Grid Enabled Integrated Earth						0		simulation							"Macro-econometric, System dynamics, Diffusion"	Post-Keynesian school	
-FTT	Future Technology Transformations						0		simulation							System dynamics	Post-Keynesian school	
-GEM-E3	General Equilibrium Model for Economy-Energy-Environment				@GEM-E3 model documentation.		0		Optimisation				31 member-state level + rest of the world			Computable general equilibrium	Neoclassical school	General equilibrium models
-Giraud Stock-Flow model	Giraud Stock-Flow model		Gaël Giraud				0		simulation							Macro-econometric	Post-Keynesian school	
-GINFORS	Global Interindustry FORecasting System				@GINFORS-E factsheet		0		simulation							Macro-econometric	Post-Keynesian school	
-GENIE	Grid Enabled Integrated Earth						0											
-MEDEAS	MEDEAS						0		simulation			mixte						
-MERGE	Merge 2004				@SPOTLIGHTING IMPACTS FUNCTIONS IN INTEGRATED ASSESSMENT		0											
-PAGE09	PAGE09		Chris Hope		@The Social Cost of Co2 from the Page09 Model		0		simulation				8					
-REMIND	REgional Model of INvestments and Development				 energy security under different climate policies GDP growth rates and fossil resource availabilities		1		Optimisation	Intertemporal optimization	General equilibrium						Neoclassical school	Endogeneous growth
-WILLIAM	WILLIAM						0					bottom-up						
-CGAM							1			Recursive dynamic	Partial equilibrium							
-GLOBIOM	GLObal BIOsphere Model		IIASA				1			Intertemporal optimization	General equilibrium							
-MAGICC 	Model for Greenhouse gas Induced Climate Change		IIASA															
+model_name	model_name_long	model_version	model_team	model_date	reference	IPCC ?	SSP ? 	EU ? 	modelisation	solution_algorithm	model_category	direction	regions-number	regions-comment	sectors-number	modelisation-type	economic-school	economic-theory		Comment
+MESSAGE	Model for Energy Supply Strategy Alternatives and their General Environmental Impact		IIASA				1		Optimisation	"Intertemporal optimization, linear programming"	Partial equilibrium / General equilibrium			global coverage		"General equilibrium models, Partial equilibrium, Cost-optimisation"		General equilibrium models		
+PRIMES	hj						0									"Partial equilibrium, Cost optimisation"				
+MIMOSA							0													
+WITCH	World Induced Technical Change Hybrid						1			Intertemporal optimization	General equilibrium									
+MINSKY					@Finance and Economic Breakdown: Modeling Minsky’s “Financial Instability Hypothesis”		0		simulation								Post-Keynesian school			
+MATISSE							0		simulation							Agent-based				
+COACCH							0													
+EIRIN							0													
+TIMES							0		Optimisation							"Partial equilibrium, Cost-optimisation"				
+QUEST							0									Optimal growth	New Keynesian school			
+GEMMES							0													
+IMAGE	Integrated Model to Assess the Global Environment						1		simulation	Recursive dynamic	Systems dynamic / General equilibrium					"System dynamics, Discrete choice"		Partial equilibrium		
+ICES							0													
+DSK							0		simulation							"Agent-based, Stock-flow consistent modelling"				
+ESTEEM							0													
+IMACLIM			CIRED		@The IMACLIM-P Model Version 3.4		0		Optimisation							Computable general equilibrium	Neoclassical school	General equilibrium models		
+AIM	Asia-Pacific Integrated Modeling				@AIM/CGE [basic] manual		1		Optimisation	Recursive dynamic	General equilibrium						Neoclassical school	General equilibrium models		
+FUND v.3.8	Climate Framework for Uncertainty Negotiation and Distribution				@FUND Technical Description		0						16							
+FUND	CLIMATE FRAMEWORK FOR UNCERTAINTY NEGOTIATION AND DISTRIBUTION				@FUND Technical Description		0		Optimisation				16			Optimal growth				
+DICE 2010	DICE 2010						0						1							
+DICE-2013R	DICE-2013R		William Nordhaus				0													
+DEFINE	Dynamic Ecosystem-FINance-Economy		Richard Tol		@A stock-flow-fund ecological macroeconomic model		0									Macro-econometric	Post-Keynesian school			
+DICE	Dynamic Integrated model of Climate and the Economy		William Nordhaus		@DICE 2013R: Introduction and User’s Manual		0													
+E3ME-FTT-GENIE	Energy-Economy-Environment Macro-Econometric - Future Technology Transformations - Grid Enabled Integrated Earth						0		simulation							"Macro-econometric, System dynamics, Diffusion"	Post-Keynesian school			
+FTT	Future Technology Transformations						0		simulation							System dynamics	Post-Keynesian school			
+GEM-E3	General Equilibrium Model for Economy-Energy-Environment				@GEM-E3 model documentation.		0		Optimisation				31 member-state level + rest of the world			Computable general equilibrium	Neoclassical school	General equilibrium models		
+Giraud Stock-Flow model	Giraud Stock-Flow model		Gaël Giraud				0		simulation							Macro-econometric	Post-Keynesian school			
+GINFORS	Global Interindustry FORecasting System				@GINFORS-E factsheet		0		simulation							Macro-econometric	Post-Keynesian school			
+GENIE	Grid Enabled Integrated Earth						0													
+MEDEAS	MEDEAS						0		simulation			mixte								
+MERGE	Merge 2004				@SPOTLIGHTING IMPACTS FUNCTIONS IN INTEGRATED ASSESSMENT		0													
+PAGE09	PAGE09		Chris Hope		@The Social Cost of Co2 from the Page09 Model		0		simulation				8							
+REMIND	REgional Model of INvestments and Development				 energy security under different climate policies GDP growth rates and fossil resource availabilities		1		Optimisation	Intertemporal optimization	General equilibrium						Neoclassical school	Endogeneous growth		
+WILLIAM	WILLIAM						0					bottom-up								
+CGAM							1			Recursive dynamic	Partial equilibrium									
+GLOBIOM	GLObal BIOsphere Model		IIASA				1			Intertemporal optimization	General equilibrium									
+MAGICC 	Model for Greenhouse gas Induced Climate Change		IIASA																	
