@@ -85,12 +85,15 @@ def metadonnees(url):
     # Analyser le contenu HTML
     soup = BeautifulSoup(html_content, 'html.parser')
 
+    # Find page title
+    title = soup.find_all('div', class='page-title-txt')[0]
+
     # Trouver les éléments contenant les informations sur les modèles intégrés
     details = soup.find_all('div', class_='project-details')
     modele_elements = details[0].find_all('li')
 
 
-    info = {}
+    info = {'Page title': title}
 
     # Parcourir les éléments et extraire les étiquettes et les valeurs
     for item in modele_elements:
