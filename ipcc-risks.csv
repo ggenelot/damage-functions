@@ -1,19 +1,19 @@
 ﻿Risk denomination,Description,Reference,Category
-Loss in terrestrial ecosystem,,,
-Loss in  freshwater ecosystem,,,
-Loss in cryospheric ecosystem,,,
-Loss in open ocean ecosystem,,,
-Extreme heat,,,
-Retreat of glaciers,,,
-Permafrost thaw,,,
-Food security reduction,,,
-Water security reduction,,,
-Agricultural productivity reduction,,,
-Ocean warming,,,
-Ocean acidification,,,
-Food production reduction,,,
-Water scarcity,,,
-Food-borne diseases,,,
-Water-borne diseases,,,
-Mental health issues,,,
-Human displacement,,,
+Loss in terrestrial ecosystem,,,Physical
+Loss in  freshwater ecosystem,,,Physical
+Loss in cryospheric ecosystem,,,Physical
+Loss in open ocean ecosystem,,,Physical
+Extreme heat,,,Physical
+Retreat of glaciers,,,Physical
+Permafrost thaw,,,Physical
+Food security reduction,,,Economic
+Water security reduction,,,Economic
+Agricultural productivity reduction,,,Economic
+Ocean warming,,,Economic
+Ocean acidification,,,Economic
+Food production reduction,,,Economic
+Water scarcity,,,Economic
+Food-borne diseases,,,Human
+Water-borne diseases,,,Human
+Mental health issues,,,Human
+Human displacement,,,Human
